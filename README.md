@@ -7,7 +7,7 @@ Full Stack dDeveloper
 Passionate Full Stack Developer driven by innovation and continuous learning. Detail-oriented and creative, I enjoy designing efficient solutions for diverse projects, leveraging my technical expertise in web development.
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [dahirayyoub@gmail.com](mailto:dahirayyoub@gmail.com)
+
 * ⚡  I'm Batman
 
 ### Skills
