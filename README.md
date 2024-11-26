@@ -18,10 +18,10 @@ Passionate Full Stack Developer driven by innovation and continuous learning. De
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="36" height="36" alt="Postman" /></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="36" height="36" alt="Trello" /></a>
 
-<a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UML_logo.svg" width="36" height="36" alt="UML" /></a>
-<a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-07/Scrumorg-Logo-vertical.jpg" width="36" height="36" alt="Scrum" /></a>
-<a href="https://kanbanize.com/" target="_blank" rel="noreferrer"><img src="https://kanbanize.com/favicon/favicon.ico" width="36" height="36" alt="Kanban" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:08a5dd16-d224-4cbb-9e83-f1ed68e6c2c7/jira.svg" width="36" height="36" alt="Jira" /></a>
+<a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7483/7483546.png" width="36" height="36" alt="UML" /></a>
+<a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2545/2545692.png" width="36" height="36" alt="Scrum" /></a>
+<a href="https://kanbanize.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/9427/9427084.png" width="36" height="36" alt="Kanban" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="36" height="36" alt="Jira" /></a>
 </p>
 
 
