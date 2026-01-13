@@ -3,7 +3,7 @@
 
   # Hi, I'm Ayoub! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px">
 
-  <!-- Fixed: Increased width to 600 to prevent text cutting off -->
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;PHP+%26+Laravel+Enthusiast;Problem+Solver&center=true&width=600&height=50&color=38bdae&vCenter=true&size=24" alt="Typing SVG" />
   </a>
@@ -32,9 +32,27 @@
 
 <hr/>
 
+### 🏆 Achievements & Activity
+
+<div align="center">
+  <!-- GitHub Trophies (Alternative Service) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dahir-Ayyoub&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <!-- Streak Stats (Alternative Service - highly reliable) -->
+  <a href="https://github.com/Dahir-Ayyoub">
+    <img src="https://streak-stats.demolab.com?user=Dahir-Ayyoub&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
 ### 🚀 Tech Stack
 
-<!-- Fixed: Removed table structure that was making icons tiny -->
 <div align="center">
   <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js" />
@@ -52,21 +70,7 @@
 
 <br/>
 
-### 📊 GitHub Analytics
-
-<!-- Fixed: Removed '&count_private=true' which causes broken images on public profiles -->
-<!-- Fixed: Changed theme to 'radical' for better visibility -->
-<div align="center">
-  <a href="https://github.com/Dahir-Ayyoub">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dahir-Ayyoub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Dahir-Ayyoub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahir-Ayyoub&layout=compact&hide=html,css&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-  </a>
-</div>
-
-<br/>
-
+<!-- Footer Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
