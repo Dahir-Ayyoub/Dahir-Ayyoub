@@ -1,78 +1,85 @@
-# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ayoub
-
-## Full Stack Developer | Morocco 🇲🇦
-
-I'm a passionate full stack developer who thrives on innovation and continuous learning. I love crafting efficient, scalable solutions and bringing ideas to life through code. With a keen eye for detail and a creative mindset, I tackle diverse projects across the entire web development stack.
-
-**🌍 Based in:** Morocco  
-**💼 Current Focus:** Building robust full-stack applications  
-**🦇 Fun Fact:** I'm Batman (but you didn't hear it from me)
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools & Methodologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-
-**Project Management:** Scrum, Kanban, Agile  
-**Design & Documentation:** UML, Figma
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dahir-Ayyoub&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahir-Ayyoub&layout=compact&theme=radical" alt="Top Languages" height="165">
+
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
+
+  # Hi there, I'm Ayoub! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px">
+
+  <!-- Typing SVG: Animated text effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;PHP+%26+Laravel+Expert;Problem+Solver&center=true&width=500&height=50&color=336699&vCenter=true&size=25" alt="Typing SVG" />
+  </a>
+
+  <p>
+     <em>Passionate Full Stack Developer driven by innovation and continuous learning. <br> I enjoy designing efficient solutions for diverse projects, leveraging my technical expertise.</em>
+  </p>
+
+  <p>
+    🌍 Based in <strong>Morocco</strong> &nbsp;|&nbsp; ⚡ Fun fact: <strong>I'm secretly Batman</strong>
+  </p>
+
+  <br>
+
+  <!-- Social Links with Shields.io badges for a cleaner look -->
+  <a href="https://www.linkedin.com/in/ayyoub-dahir-aa58592b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.github.com/Dahir-Ayyoub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+
 </div>
 
----
+<hr>
 
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://github.com/Dahir-Ayyoub" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/ayyoub-dahir-aa58592b3/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
-
----
+### 🚀 Technical Skills
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dahir-Ayyoub&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <table>
+    <tr>
+      <td align="center" width="25%"><strong>Frontend</strong></td>
+      <td align="center" width="25%"><strong>Backend</strong></td>
+      <td align="center" width="25%"><strong>Database</strong></td>
+      <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js" /></a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" /></a>
+      </td>
+      <td align="center">
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></a>
+      </td>
+      <td align="center">
+        <a href="https://docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br>
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <i>⚡ "Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Dahir-Ayyoub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dahir-Ayyoub&show_icons=true&line_height=27&count_private=true&title_color=000&icon_color=222&text_color=444&bg_color=0,e6f2ff,e6f2ff" alt="Ayoub's Stats" />
+  </a>
+  
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Dahir-Ayyoub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahir-Ayyoub&hide=html,css&title_color=000&icon_color=222&text_color=444&bg_color=0,e6f2ff,e6f2ff" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
