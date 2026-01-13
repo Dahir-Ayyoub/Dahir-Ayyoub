@@ -3,9 +3,9 @@
 
   # Hi, I'm Ayoub! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px">
 
-  <!-- Typing SVG: Animated Text -->
+  <!-- Fixed: Increased width to 600 to prevent text cutting off -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;PHP+%26+Laravel+Enthusiast;Problem+Solver&center=true&width=500&height=50&color=336699&vCenter=true&size=24" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;PHP+%26+Laravel+Enthusiast;Problem+Solver&center=true&width=600&height=50&color=38bdae&vCenter=true&size=24" alt="Typing SVG" />
   </a>
 
   <p>
@@ -34,42 +34,34 @@
 
 ### 🚀 Tech Stack
 
+<!-- Fixed: Removed table structure that was making icons tiny -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><strong>Frontend</strong></td>
-      <td align="center" width="100"><strong>Backend</strong></td>
-      <td align="center" width="100"><strong>Database</strong></td>
-      <td align="center" width="100"><strong>Tools</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman" />
-      </td>
-    </tr>
-  </table>
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js" />
+  
+  <br><br>
+  
+  <p><strong>Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
+
+  <br><br>
+
+  <p><strong>Database & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,docker,linux,figma,postman" />
 </div>
 
 <br/>
 
 ### 📊 GitHub Analytics
 
-<!-- NOTE: If these images are broken, change 'username=Dahir-Ayyoub' to your EXACT GitHub username -->
+<!-- Fixed: Removed '&count_private=true' which causes broken images on public profiles -->
+<!-- Fixed: Changed theme to 'radical' for better visibility -->
 <div align="center">
   <a href="https://github.com/Dahir-Ayyoub">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dahir-Ayyoub&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0,e6f2ff,e6f2ff" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dahir-Ayyoub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   </a>
   <a href="https://github.com/Dahir-Ayyoub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahir-Ayyoub&layout=compact&hide=html,css&theme=default&hide_border=true&bg_color=0,e6f2ff,e6f2ff" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahir-Ayyoub&layout=compact&hide=html,css&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
   </a>
 </div>
 
