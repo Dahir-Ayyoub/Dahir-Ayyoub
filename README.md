@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://github.com/AyoubDahir" target="_blank">
+    <a href="https://github.com/Dahir-Ayyoub" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;
@@ -63,12 +63,13 @@
 
 ### 📊 GitHub Analytics
 
+<!-- NOTE: If these images are broken, change 'username=Dahir-Ayyoub' to your EXACT GitHub username -->
 <div align="center">
-  <a href="https://github.com/AyoubDahir">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyoubDahir&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0,e6f2ff,e6f2ff" height="180" alt="stats graph" />
+  <a href="https://github.com/Dahir-Ayyoub">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dahir-Ayyoub&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0,e6f2ff,e6f2ff" height="180" alt="stats graph" />
   </a>
-  <a href="https://github.com/AyoubDahir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubDahir&layout=compact&hide=html,css&theme=default&hide_border=true&bg_color=0,e6f2ff,e6f2ff" height="180" alt="languages graph" />
+  <a href="https://github.com/Dahir-Ayyoub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahir-Ayyoub&layout=compact&hide=html,css&theme=default&hide_border=true&bg_color=0,e6f2ff,e6f2ff" height="180" alt="languages graph" />
   </a>
 </div>
 
